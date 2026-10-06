@@ -396,7 +396,7 @@
       "line_comment": ["//"],
       "multi_line_comments": [["/*", "*/"]],
       "quotes": [["\\\"", "\\\""]],
-      "extensions": ["cu"]
+      "extensions": ["cu", "cuh"]
     },
     "Cue": {
       "name": "CUE",
